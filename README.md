@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello There 👋
+- 😄 My name is Fanuel Phalosa
+- 🌱 I'm a student at Dian Nuswantoro University
+- ⚡ I'm currenty learning Machine Learning from Bangkit program
 
 <!--
 **PhalosaFanuel/PhalosaFanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
